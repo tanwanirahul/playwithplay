@@ -11,7 +11,5 @@ Run, activator run
 Supported End-Points?
 
 /
-
 /products
-
 /products/<id: 1-10>
