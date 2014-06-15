@@ -1,4 +1,17 @@
-This is your new Play application
-=================================
+Sampple Play Framework based application
+========================================
 
-This file will be packaged with your application, when using `activator dist`.
+How to Use?
+
+Clone the repository.
+
+Run, activator run
+
+
+Supported End-Points?
+
+/
+
+/products
+
+/products/<id: 1-10>
